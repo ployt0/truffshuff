@@ -29,15 +29,15 @@ In the interests of shelving this project I would propose the simplifications:
    or more from other pairs.
 
 This takes away a good deal of the fun and experimentation from creating a
-home gym. For me at least, someone incapable of solving the more generalised
+home gym. For me at least, someone incapable of scripting the more generalised
 version of this problem, it is a trivial problem to do manually. Considering
 the effort I've put into getting this far, I'm sure it would take
-disproportionately for me to arrive at a solution that merely answers the
+disproportionately long for me to arrive at a solution that merely answers the
 question for me, "do I need that pair of dumbbells?". While I've been
 writing this several pairs have appeared on gumtree at affordable prices.
 
 But I still need work so I'm putting this out there as evidence of some
 recent development and so I can concentrate on lower hanging fruit.
 
-Probably I will leave this "truffshuff" alone, clone it and start again,
+Probably I will leave this "truffshuff" repo alone, clone it and start again,
 one day.
