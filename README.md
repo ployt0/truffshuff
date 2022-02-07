@@ -5,7 +5,7 @@ After spending far too long exercising the CLI (front end) to this backend
 with unit tests, winter arrived and brought the bugs that accompany the
 coldest season. I lost interest.
 
-Rather than devise the algorithm that so inspired me to create this project,
+Rather than revise the algorithm that so inspired me to create this project,
 and so allow myself to use some web framework to provide a valuable service,
 I'm making this project public.
 
